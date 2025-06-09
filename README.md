@@ -9,4 +9,6 @@ When compiled with Xcode, this project works out of the box. AppDelegate.swift c
 
     Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(AppDelegate.update), userInfo: nil, repeats: true)
 
-Feel free to use this template to create your own menu bar agent. For instance, I built a [simple app to bring back the battery time left in my macbook pro](https://www.producthunt.com/posts/tlob-time-left-on-battery) since the latest update of Mac OS X removed that feature and I was missing it.
+Feel free to use this template to create your own menu bar agent. For instance, I built a [simple app to bring back the battery time left in my macbook pro](https://www.producthunt.com/posts/tlob-time-left-on-battery) [now discontinued] since the latest update of Mac OS X removed that feature and I was missing it.
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/albertobeta/MenuBarOSXapp)
